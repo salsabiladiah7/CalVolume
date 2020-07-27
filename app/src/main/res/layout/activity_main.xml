@@ -48,7 +48,6 @@
         android:id="@+id/btn_calculate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="#2196F3"
         android:text="@string/calculate" />
 
     <TextView
